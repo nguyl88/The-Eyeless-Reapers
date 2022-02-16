@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 32: Line is indented, but the preceding scene statement statement does not expect a block. Please check this line's indentation.
+    show nyx happy 
+    ^
+
+Ren'Py Version: Ren'Py 7.4.11.2266
+Mon Jan 24 14:03:17 2022
